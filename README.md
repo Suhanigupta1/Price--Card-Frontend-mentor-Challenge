@@ -1,2 +1,2 @@
-# Price--Card-Frontend-mentor-Challenge
-I have create a pricing card Using basic html and CSS in this project
+# Price-Card-Frontend-Mentor-Challenge
+Created a pricing card using HTML and CSS.
